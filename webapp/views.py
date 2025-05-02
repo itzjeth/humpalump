@@ -8,6 +8,8 @@ from webapp.models import  Users,Review,Admin
 from django.utils.safestring import mark_safe
 from django.templatetags.static import static
 from django.contrib import messages
+from django.core.mail import send_mail
+from django.conf import settings
 
 """{% load static %}"""
 import datetime
