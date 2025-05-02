@@ -26,7 +26,7 @@ EMAIL_HOST_USER = 'itzgrizzlybear9@gmail.com'
 EMAIL_HOST_PASSWORD = 'ihxb fauc tcea psrb'
 DEFAULT_FROM_EMAIL = EMAIL_HOST_USER
 
-ALLOWED_HOSTS = ['st1ng.onrender.com', 'stingchatbot.onrender.com']  # <-- adjust as needed
+ALLOWED_HOSTS = ['st1ng.onrender.com', 'stingc.onrender.com']  # <-- adjust as needed
 
 # Application definition
 INSTALLED_APPS = [
